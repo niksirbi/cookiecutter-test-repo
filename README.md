@@ -1,1 +1,1 @@
-# test-cookiecutter-repo
+# cookiecutter-test-repo
