@@ -1,5 +1,5 @@
 [project]
-name = "test-repo"
+name = "cookiecutter-test-repo"
 authors = [{name = "Nikoloz Sirmpilatze", email= "niko.sirbiladze@gmail.com"}]
 description = "A Python package for testing"
 readme = "README.md"
@@ -20,11 +20,11 @@ classifiers = [
 ]
 
 [project.urls]
-homepage = "https://github.com/niksirbi/test-repo"
-bug_tracker = "https://github.com/niksirbi/test-repo/issues"
-documentation = "https://github.com/niksirbi/test-repo"
-source_code = "https://github.com/niksirbi/test-repo"
-user_support = "https://github.com/niksirbi/test-repo/issues"
+homepage = "https://github.com/niksirbi/cookiecutter-test-repo"
+bug_tracker = "https://github.com/niksirbi/cookiecutter-test-repo/issues"
+documentation = "https://github.com/niksirbi/cookiecutter-test-repo"
+source_code = "https://github.com/niksirbi/cookiecutter-test-repo"
+user_support = "https://github.com/niksirbi/cookiecutter-test-repo/issues"
 
 [project.optional-dependencies]
 dev = [
@@ -33,8 +33,8 @@ dev = [
 	"coverage",
 	"tox",
 	"black",
-    "isort",
-    "mypy",
+  "isort",
+  "mypy",
 	"pre-commit",
 	"flake8",
  	"setuptools_scm",
